@@ -7,7 +7,7 @@ def slice_simple():
     print(texto[2:5].lower()) #3 letras del medio "eso" que son la 2 3 4
     print(texto[0:4].lower()+texto[4:7].lower()) #de la primer letra a la cuarta y de la antepenultima a la ultima.
 
-slice_simple()
+# slice_simple()
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_slice_simple_test.py` o `python tp3_slice_simple_test.py`
 
