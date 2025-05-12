@@ -6,4 +6,4 @@ def slice_advanced():
     texto = input("Ingresá un texto: ")
     print(texto[4::2])
 
-slice_advanced()
+# slice_advanced()
